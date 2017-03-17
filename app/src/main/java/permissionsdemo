@@ -1,0 +1,106 @@
+group:android.permission-group.PHONE_CALLS
+  permission:android.permission.READ_PHONE_STATE
+  permission:android.permission.CALL_PHONE
+  permission:android.permission.USE_SIP
+  permission:android.permission.PROCESS_OUTGOING_CALLS
+
+group:android.permission-group.WALLPAPER
+
+group:com.google.android.gms.permission.CAR_INFORMATION
+  permission:com.google.android.gms.permission.CAR_VENDOR_EXTENSION
+  permission:com.google.android.gms.permission.CAR_MILEAGE
+  permission:com.google.android.gms.permission.CAR_FUEL
+
+group:android.permission-group.MESSAGES
+  permission:android.permission.READ_SMS
+  permission:com.google.android.providers.talk.permission.WRITE_ONLY
+  permission:android.permission.RECEIVE_WAP_PUSH
+  permission:com.android.email.permission.READ_ATTACHMENT
+  permission:android.permission.RECEIVE_MMS
+  permission:android.permission.RECEIVE_SMS
+  permission:android.permission.SEND_SMS
+  permission:android.permission.WRITE_SMS
+  permission:android.permission.READ_CELL_BROADCASTS
+  permission:com.google.android.providers.talk.permission.READ_ONLY
+
+group:android.permission-group.USER_DICTIONARY
+  permission:android.permission.READ_USER_DICTIONARY
+
+group:android.permission-group.CALENDAR
+
+group:android.permission-group.BLUETOOTH_NETWORK
+  permission:android.permission.BLUETOOTH
+  permission:android.permission.BLUETOOTH_ADMIN
+
+group:android.permission-group.BOOKMARKS
+  permission:com.android.browser.permission.READ_HISTORY_BOOKMARKS
+  permission:com.android.browser.permission.WRITE_HISTORY_BOOKMARKS
+
+group:android.permission-group.CAMERA
+  permission:android.permission.CAMERA
+
+group:android.permission-group.DEVELOPMENT_TOOLS
+
+group:android.permission-group.SCREENLOCK
+  permission:android.permission.DISABLE_KEYGUARD
+
+group:android.permission-group.WRITE_USER_DICTIONARY
+
+group:android.permission-group.AUDIO_SETTINGS
+
+group:android.permission-group.HARDWARE_CONTROLS
+
+group:android.permission-group.VOICEMAIL
+  permission:com.android.voicemail.permission.ADD_VOICEMAIL
+
+group:android.permission-group.DISPLAY
+  permission:android.permission.SYSTEM_ALERT_WINDOW
+
+group:android.permission-group.APP_INFO
+
+group:android.permission-group.SOCIAL_INFO
+  permission:android.permission.READ_CALL_LOG
+  permission:android.permission.WRITE_SOCIAL_STREAM
+  permission:android.permission.WRITE_CONTACTS
+  permission:android.permission.WRITE_CALL_LOG
+  permission:android.permission.READ_SOCIAL_STREAM
+  permission:android.permission.READ_CONTACTS
+
+group:android.permission-group.AFFECTS_BATTERY
+  permission:android.permission.CHANGE_WIFI_MULTICAST_STATE
+
+group:android.permission-group.NETWORK
+  permission:android.permission.NFC
+  permission:android.permission.INTERNET
+  permission:android.permission.CHANGE_WIFI_STATE
+  permission:android.permission.CHANGE_WIMAX_STATE
+
+group:android.permission-group.ACCESSIBILITY_FEATURES
+
+group:android.permission-group.STATUS_BAR
+
+group:android.permission-group.SYNC_SETTINGS
+
+group:android.permission-group.PERSONAL_INFO
+  permission:android.permission.READ_CALENDAR
+  permission:android.permission.READ_PROFILE
+  permission:android.permission.WRITE_PROFILE
+  permission:android.permission.WRITE_CALENDAR
+
+group:android.permission-group.LOCATION
+  permission:android.permission.ACCESS_FINE_LOCATION
+  permission:com.google.android.gms.permission.CAR_SPEED
+  permission:android.permission.ACCESS_COARSE_LOCATION
+
+group:android.permission-group.SYSTEM_CLOCK
+
+group:android.permission-group.STORAGE
+  permission:android.permission.WRITE_EXTERNAL_STORAGE
+
+group:android.permission-group.SYSTEM_TOOLS
+  permission:android.permission.ACCESS_MOCK_LOCATION
+  permission:com.android.launcher.permission.UNINSTALL_SHORTCUT
+  permission:android.permission.SUBSCRIBED_FEEDS_WRITE
+  permission:android.permission.CLEAR_APP_CACHE
+  permission:com.android.launcher.permission.INSTALL_SHORTCUT
+
